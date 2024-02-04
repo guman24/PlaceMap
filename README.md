@@ -4,4 +4,4 @@
 - MVVM
 
 This is very basic application using MVVM pattern. In application, place details can be read with images, pin location
-![MapView](Images/mapview.png)
+![MapView](Images/preview.png)
